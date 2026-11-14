@@ -1,0 +1,9 @@
+{
+  "name": "gidavto-hero",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vite --host 127.0.0.1 --port 5173", "build": "vite build", "preview": "vite preview --host 127.0.0.1 --port 4173", "check": "node --test tests/*.test.js" },
+  "dependencies": { "@gsap/react": "^2.1.2", "gsap": "^3.13.0", "react": "^19.2.0", "react-dom": "^19.2.0" },
+  "devDependencies": { "vite": "^7.2.0" }
+}

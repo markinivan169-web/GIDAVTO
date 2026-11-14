@@ -67,4 +67,3 @@ npm run preview
 
 Паттерны ScrollTrigger и очистки React сверены с официальной документацией: https://gsap.com/docs/v3/Plugins/ScrollTrigger/ и https://gsap.com/resources/React/.
 
-

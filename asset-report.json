@@ -1,0 +1,82 @@
+{
+  "orange": {
+    "source": "Оранжевый суперкар в профиль.png",
+    "hasAlpha": true,
+    "size": [
+      2172,
+      724
+    ],
+    "transparent": 701779,
+    "opaque": 372,
+    "crop": {
+      "left": 60,
+      "top": 105,
+      "width": 2053,
+      "height": 579
+    }
+  },
+  "silver": {
+    "source": "Серебристое спортивное купе в профиль.png",
+    "hasAlpha": true,
+    "size": [
+      2172,
+      724
+    ],
+    "transparent": 642040,
+    "opaque": 840,
+    "crop": {
+      "left": 61,
+      "top": 61,
+      "width": 2054,
+      "height": 644
+    }
+  },
+  "blue": {
+    "source": "Кобальтовое купе в профиль.png",
+    "hasAlpha": true,
+    "size": [
+      2172,
+      724
+    ],
+    "transparent": 626961,
+    "opaque": 406,
+    "crop": {
+      "left": 62,
+      "top": 83,
+      "width": 2060,
+      "height": 623
+    }
+  },
+  "truck": {
+    "source": "Графитовый автопоезд с закрытым прицепом.png",
+    "hasAlpha": true,
+    "size": [
+      2172,
+      724
+    ],
+    "transparent": 585907,
+    "opaque": 803,
+    "crop": {
+      "left": 48,
+      "top": 132,
+      "width": 2086,
+      "height": 507
+    }
+  },
+  "ramp": {
+    "source": "Графитовая погрузочная рампа в профиль.png",
+    "hasAlpha": true,
+    "size": [
+      2172,
+      724
+    ],
+    "transparent": 1435145,
+    "opaque": 926,
+    "crop": {
+      "left": 49,
+      "top": 265,
+      "width": 2075,
+      "height": 231
+    }
+  }
+}
